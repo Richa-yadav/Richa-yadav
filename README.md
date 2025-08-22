@@ -3,6 +3,7 @@
 ---
 
 ## 👩‍💻 About Me  
+- 🎓 IIT Roorkee, Class of 2023 (B.Tech) 
 - 💡 Currently building **Generative AI workflows** & **cloud-native backends** on AWS  
 - 🔧 Experienced in **microservices, ETL pipelines, and LLM fine-tuning**  
 - 🎯 Career goal: Growing into **technical leadership roles** while driving **product innovation**  
