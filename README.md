@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Richa<img width="988" height="617" alt="ChatGPT Image Aug 23, 2025, 12_16_55 AM" src="https://github.com/user-attachments/assets/cdfb3664-f6d4-4133-aba6-28743c296de4" />
-  
-
-![Banner](https://i.ibb.co/pfNSLFM/gen-ai-banner.png)  
-*(Exploring Generative AI • Building Scalable Backends • Driving FinTech Innovation)*  
+<img width="988" height="617" alt="ChatGPT Image Aug 23, 2025, 12_16_55 AM" src="https://github.com/user-attachments/assets/cdfb3664-f6d4-4133-aba6-28743c296de4" />
 
 ---
 
@@ -31,9 +27,13 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richa%20Kumari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richa-yadav-1024/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-richay__01-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/richay_01/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Richa--yadav-black?style=for-the-badge&logo=github)](https://github.com/Richa-yadav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richa-yadav-1024/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Richa-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/richay_01/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Richa-black?style=for-the-badge&logo=github)](https://github.com/Richa-yadav)  
+[![Calendly](https://img.shields.io/badge/Calendly-Richa-006BFF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/1024richakumari/30min)   
+[![Spotify](https://img.shields.io/badge/Spotify-Richa-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tgflizpu4txv4s44ayu4fdmswm?si=f6ae7305849d45cc) 
+
+
 
 ---
 
